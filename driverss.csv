@@ -59,8 +59,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1950,pian,,,Alfredo,Pián,1912-10-21,Argentine,http://en.wikipedia.org/wiki/Alfredo_Pi%C3%A0n
 1950,pietsch,,,Paul,Pietsch,1911-06-20,German,http://en.wikipedia.org/wiki/Paul_Pietsch
 1950,pozzi,,,Charles,Pozzi,1909-08-27,French,http://en.wikipedia.org/wiki/Charles_Pozzi
-1950,rathmann,,,Jim,Rathmann,1928-07-16,American,http://en.wikipedia.org/wiki/Jim_Rathmann
 1950,dick_rathmann,,,Dick,Rathmann,1924-01-06,American,http://en.wikipedia.org/wiki/Dick_Rathmann
+1950,rathmann,,,Jim,Rathmann,1928-07-16,American,http://en.wikipedia.org/wiki/Jim_Rathmann
 1950,rol,,,Franco,Rol,1908-06-05,Italian,http://en.wikipedia.org/wiki/Franco_Rol
 1950,rolt,,,Tony,Rolt,1918-10-16,British,http://en.wikipedia.org/wiki/Tony_Rolt
 1950,rose,,,Mauri,Rose,1906-05-26,American,http://en.wikipedia.org/wiki/Mauri_Rose
@@ -79,6 +79,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1950,peter_walker,,,Peter,Walker,1912-10-07,British,http://en.wikipedia.org/wiki/Peter_Walker_(driver)
 1950,wallard,,,Lee,Wallard,1910-09-07,American,http://en.wikipedia.org/wiki/Lee_Wallard
 1950,webb,,,Travis,Webb,1910-10-08,American,http://en.wikipedia.org/wiki/Travis_Webb
+1950,whitehead,,,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
 1951,abecassis,,,George,Abecassis,1913-03-21,British,http://en.wikipedia.org/wiki/George_Abecassis
 1951,agabashian,,,Fred,Agabashian,1913-08-21,American,http://en.wikipedia.org/wiki/Fred_Agabashian
 1951,ascari,,,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
@@ -162,6 +163,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1951,peter_walker,,,Peter,Walker,1912-10-07,British,http://en.wikipedia.org/wiki/Peter_Walker_(driver)
 1951,wallard,,,Lee,Wallard,1910-09-07,American,http://en.wikipedia.org/wiki/Lee_Wallard
 1951,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
+1951,whitehead,,,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
 1952,abecassis,,,George,Abecassis,1913-03-21,British,http://en.wikipedia.org/wiki/George_Abecassis
 1952,agabashian,,,Fred,Agabashian,1913-08-21,American,http://en.wikipedia.org/wiki/Fred_Agabashian
 1952,ascari,,,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
@@ -261,6 +263,12 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1952,lof,,,Dries,van der Lof,1919-08-23,Dutch,http://en.wikipedia.org/wiki/Dries_van_der_Lof
 1952,villoresi,,,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
 1952,hans_stuck,,,Hans,von Stuck,1900-12-27,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck
+1952,vukovich,,,Bill,Vukovich,1918-12-13,American,http://en.wikipedia.org/wiki/Bill_Vukovich
+1952,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
+1952,webb,,,Travis,Webb,1910-10-08,American,http://en.wikipedia.org/wiki/Travis_Webb
+1952,wharton,,,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+1952,graham_whitehead,,,Graham,Whitehead,1922-04-15,British,http://en.wikipedia.org/wiki/Graham_Whitehead
+1952,whitehead,,,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
 1953,adolff,,,Kurt,Adolff,1921-11-05,German,http://en.wikipedia.org/wiki/Kurt_Adolff
 1953,agabashian,,,Fred,Agabashian,1913-08-21,American,http://en.wikipedia.org/wiki/Fred_Agabashian
 1953,ascari,,,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
@@ -360,6 +368,15 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1953,sweikert,,,Bob,Sweikert,1926-05-20,American,http://en.wikipedia.org/wiki/Bob_Sweikert
 1953,teague,,,Marshall,Teague,1921-02-22,American,http://en.wikipedia.org/wiki/Marshall_Teague_(racing_driver)
 1953,thomson,,,Johnny,Thomson,1922-04-09,American,http://en.wikipedia.org/wiki/Johnny_Thomson
+1953,trintignant,,,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+1953,villoresi,,,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
+1953,hans_stuck,,,Hans,von Stuck,1900-12-27,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck
+1953,vukovich,,,Bill,Vukovich,1918-12-13,American,http://en.wikipedia.org/wiki/Bill_Vukovich
+1953,wacker,,,Fred,Wacker,1918-07-10,American,http://en.wikipedia.org/wiki/Fred_Wacker
+1953,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
+1953,webb,,,Travis,Webb,1910-10-08,American,http://en.wikipedia.org/wiki/Travis_Webb
+1953,wharton,,,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+1953,whitehead,,,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
 1954,agabashian,,,Fred,Agabashian,1913-08-21,American,http://en.wikipedia.org/wiki/Fred_Agabashian
 1954,armi,,,Frank,Armi,1918-10-12,American,http://en.wikipedia.org/wiki/Frank_Armi
 1954,ascari,,,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
@@ -456,6 +473,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1954,webb,,,Travis,Webb,1910-10-08,American,http://en.wikipedia.org/wiki/Travis_Webb
 1954,wharton,,,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
 1954,whitehead,,,Peter,Whitehead,1914-11-12,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)
+1954,whitehouse,,,Bill,Whitehouse,1909-04-01,British,http://en.wikipedia.org/wiki/Bill_Whitehouse
 1955,agabashian,,,Fred,Agabashian,1913-08-21,American,http://en.wikipedia.org/wiki/Fred_Agabashian
 1955,andrews,,,Keith,Andrews,1920-06-15,American,http://en.wikipedia.org/wiki/Keith_Andrews_(driver)
 1955,ascari,,,Alberto,Ascari,1918-07-13,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
@@ -539,6 +557,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1955,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
 1955,weyant,,,Chuck,Weyant,1923-04-03,American,http://en.wikipedia.org/wiki/Chuck_Weyant
 1955,wharton,,,Ken,Wharton,1916-03-21,British,http://en.wikipedia.org/wiki/Ken_Wharton
+1955,whiteaway,,,Ted,Whiteaway,1928-11-01,British,http://en.wikipedia.org/wiki/Ted_Whiteaway
 1956,agabashian,,,Fred,Agabashian,1913-08-21,American,http://en.wikipedia.org/wiki/Fred_Agabashian
 1956,andrews,,,Keith,Andrews,1920-06-15,American,http://en.wikipedia.org/wiki/Keith_Andrews_(driver)
 1956,bayol,,,Élie,Bayol,1914-02-28,French,http://en.wikipedia.org/wiki/%C3%89lie_Bayol
@@ -598,12 +617,12 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1956,perdisa,,,Cesare,Perdisa,1932-10-21,Italian,http://en.wikipedia.org/wiki/Cesare_Perdisa
 1956,andre_pilette,,,André,Pilette,1918-10-06,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
 1956,piotti,,,Luigi,Piotti,1913-10-27,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti
-1956,dick_rathmann,,,Dick,Rathmann,1924-01-06,American,http://en.wikipedia.org/wiki/Dick_Rathmann
 1956,rathmann,,,Jim,Rathmann,1928-07-16,American,http://en.wikipedia.org/wiki/Jim_Rathmann
+1956,dick_rathmann,,,Dick,Rathmann,1924-01-06,American,http://en.wikipedia.org/wiki/Dick_Rathmann
 1956,reece,,,Jimmy,Reece,1929-11-17,American,http://en.wikipedia.org/wiki/Jimmy_Reece
 1956,rosier,,,Louis,Rosier,1905-11-05,French,http://en.wikipedia.org/wiki/Louis_Rosier
-1956,russo,,,Eddie,Russo,1925-11-19,American,http://en.wikipedia.org/wiki/Eddie_Russo
 1956,paul_russo,,,Paul,Russo,1914-04-10,American,http://en.wikipedia.org/wiki/Paul_Russo
+1956,russo,,,Eddie,Russo,1925-11-19,American,http://en.wikipedia.org/wiki/Eddie_Russo
 1956,ruttman,,,Troy,Ruttman,1930-03-11,American,http://en.wikipedia.org/wiki/Troy_Ruttman
 1956,salvadori,,,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
 1956,scarlatti,,,Giorgio,Scarlatti,1921-10-02,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti
@@ -623,6 +642,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1956,villoresi,,,Luigi,Villoresi,1909-05-16,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
 1956,volonterio,,,Ottorino,Volonterio,1917-12-07,Swiss,http://en.wikipedia.org/wiki/Ottorino_Volonterio
 1956,trips,,,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
+1956,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
 1957,agabashian,,,Fred,Agabashian,1913-08-21,American,http://en.wikipedia.org/wiki/Fred_Agabashian
 1957,barth,,,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
 1957,behra,,,Jean,Behra,1921-02-16,French,http://en.wikipedia.org/wiki/Jean_Behra
@@ -681,8 +701,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1957,piotti,,,Luigi,Piotti,1913-10-27,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti
 1957,rathmann,,,Jim,Rathmann,1928-07-16,American,http://en.wikipedia.org/wiki/Jim_Rathmann
 1957,reece,,,Jimmy,Reece,1929-11-17,American,http://en.wikipedia.org/wiki/Jimmy_Reece
-1957,russo,,,Eddie,Russo,1925-11-19,American,http://en.wikipedia.org/wiki/Eddie_Russo
 1957,paul_russo,,,Paul,Russo,1914-04-10,American,http://en.wikipedia.org/wiki/Paul_Russo
+1957,russo,,,Eddie,Russo,1925-11-19,American,http://en.wikipedia.org/wiki/Eddie_Russo
 1957,ruttman,,,Troy,Ruttman,1930-03-11,American,http://en.wikipedia.org/wiki/Troy_Ruttman
 1957,sachs,,,Eddie,Sachs,1927-05-28,American,http://en.wikipedia.org/wiki/Eddie_Sachs
 1957,salvadori,,,Roy,Salvadori,1922-05-12,British,http://en.wikipedia.org/wiki/Roy_Salvadori
@@ -698,6 +718,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1957,volonterio,,,Ottorino,Volonterio,1917-12-07,Swiss,http://en.wikipedia.org/wiki/Ottorino_Volonterio
 1957,trips,,,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
 1957,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
+1957,weyant,,,Chuck,Weyant,1923-04-03,American,http://en.wikipedia.org/wiki/Chuck_Weyant
 1958,allison,,,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
 1958,george_amick,,,George,Amick,1924-10-24,American,http://en.wikipedia.org/wiki/George_Amick
 1958,barth,,,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
@@ -739,8 +760,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1958,guelfi,,,André,Guelfi,1919-05-06,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Guelfi
 1958,hawthorn,,,Mike,Hawthorn,1929-04-10,British,http://en.wikipedia.org/wiki/Mike_Hawthorn
 1958,herrmann,,,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
-1958,phil_hill,,,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
 1958,hill,,,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+1958,phil_hill,,,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
 1958,johnson,,,Eddie,Johnson,1919-02-10,American,http://en.wikipedia.org/wiki/Eddie_Johnson_(auto_racer)
 1958,kavanagh,,,Ken,Kavanagh,1923-12-12,Australian,http://en.wikipedia.org/wiki/Ken_Kavanagh
 1958,keller,,,Al,Keller,1920-04-11,American,http://en.wikipedia.org/wiki/Al_Keller
@@ -784,6 +805,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1958,trips,,,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
 1958,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
 1958,weyant,,,Chuck,Weyant,1923-04-03,American,http://en.wikipedia.org/wiki/Chuck_Weyant
+1958,dempsey_wilson,,,Dempsey,Wilson,1927-03-11,American,http://en.wikipedia.org/wiki/Dempsey_Wilson
 1959,allison,,,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
 1959,amick,,,Red,Amick,1929-01-19,American,http://en.wikipedia.org/wiki/Red_Amick
 1959,arnold,,,Chuck,Arnold,1926-05-30,American,http://en.wikipedia.org/wiki/Chuck_Arnold
@@ -849,8 +871,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1959,parkes,,,Mike,Parkes,1931-09-24,British,http://en.wikipedia.org/wiki/Mike_Parkes
 1959,parnell,,,Tim,Parnell,1932-06-25,British,http://en.wikipedia.org/wiki/Tim_Parnell
 1959,piper,,,David,Piper,1930-12-02,British,http://en.wikipedia.org/wiki/David_Piper
-1959,rathmann,,,Jim,Rathmann,1928-07-16,American,http://en.wikipedia.org/wiki/Jim_Rathmann
 1959,dick_rathmann,,,Dick,Rathmann,1924-01-06,American,http://en.wikipedia.org/wiki/Dick_Rathmann
+1959,rathmann,,,Jim,Rathmann,1928-07-16,American,http://en.wikipedia.org/wiki/Jim_Rathmann
 1959,paul_russo,,,Paul,Russo,1914-04-10,American,http://en.wikipedia.org/wiki/Paul_Russo
 1959,sachs,,,Eddie,Sachs,1927-05-28,American,http://en.wikipedia.org/wiki/Eddie_Sachs
 1959,said,,,Bob,Said,1932-05-05,American,http://en.wikipedia.org/wiki/Bob_Said
@@ -860,10 +882,10 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1959,shelby,,,Carroll,Shelby,1923-01-11,American,http://en.wikipedia.org/wiki/Carroll_Shelby
 1959,stacey,,,Alan,Stacey,1933-08-29,British,http://en.wikipedia.org/wiki/Alan_Stacey
 1959,sutton,,,Len,Sutton,1925-08-09,American,http://en.wikipedia.org/wiki/Len_Sutton
+1959,mike_taylor,,,Mike,Taylor,1934-04-24,British,http://en.wikipedia.org/wiki/Mike_Taylor_(driver)
 1959,dennis_taylor,,,Dennis,Taylor,1921-06-12,British,http://en.wikipedia.org/wiki/Dennis_Taylor_(racing_driver)
 1959,henry_taylor,,,Henry,Taylor,1932-12-16,British,http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver)
 1959,trevor_taylor,,,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
-1959,mike_taylor,,,Mike,Taylor,1934-04-24,British,http://en.wikipedia.org/wiki/Mike_Taylor_(driver)
 1959,testut,,,André,Testut,1926-04-13,Monegasque,http://en.wikipedia.org/wiki/Andr%C3%A9_Testut
 1959,thomson,,,Johnny,Thomson,1922-04-09,American,http://en.wikipedia.org/wiki/Johnny_Thomson
 1959,trintignant,,,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
@@ -871,6 +893,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1959,veith,,,Bob,Veith,1926-11-01,American,http://en.wikipedia.org/wiki/Bob_Veith
 1959,trips,,,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
 1959,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
+1959,weyant,,,Chuck,Weyant,1923-04-03,American,http://en.wikipedia.org/wiki/Chuck_Weyant
 1960,allison,,,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
 1960,amick,,,Red,Amick,1929-01-19,American,http://en.wikipedia.org/wiki/Red_Amick
 1960,barth,,,Edgar,Barth,1917-01-26,German,http://en.wikipedia.org/wiki/Edgar_Barth
@@ -961,6 +984,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1960,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
 1960,weiler,,,Wayne,Weiler,1934-12-09,American,http://en.wikipedia.org/wiki/Wayne_Weiler
 1960,dempsey_wilson,,,Dempsey,Wilson,1927-03-11,American,http://en.wikipedia.org/wiki/Dempsey_Wilson
+1960,vic_wilson,,,Vic,Wilson,1931-04-14,British,http://en.wikipedia.org/wiki/Vic_Wilson_(motor_racing_driver)
 1961,allison,,,Cliff,Allison,1932-02-08,British,http://en.wikipedia.org/wiki/Cliff_Allison
 1961,ashmore,,,Gerry,Ashmore,1936-07-25,British,http://en.wikipedia.org/wiki/Gerry_Ashmore
 1961,baghetti,,,Giancarlo,Baghetti,1934-12-25,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti
@@ -988,8 +1012,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1961,hall,,,Jim,Hall,1935-07-23,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)
 1961,hansgen,,,Walt,Hansgen,1919-10-28,American,http://en.wikipedia.org/wiki/Walt_Hansgen
 1961,herrmann,,,Hans,Herrmann,1928-02-23,German,http://en.wikipedia.org/wiki/Hans_Herrmann
-1961,phil_hill,,,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
 1961,hill,,,Graham,Hill,1929-02-15,British,http://en.wikipedia.org/wiki/Graham_Hill
+1961,phil_hill,,,Phil,Hill,1927-04-20,American,http://en.wikipedia.org/wiki/Phil_Hill
 1961,ireland,,,Innes,Ireland,1930-06-12,British,http://en.wikipedia.org/wiki/Innes_Ireland
 1961,lewis,,,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis
 1961,lippi,,,Roberto,Lippi,1926-10-17,Italian,http://en.wikipedia.org/wiki/Roberto_Lippi
@@ -1022,6 +1046,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1961,thiele,,,Alfonso,Thiele,1920-04-05,American-Italian,http://en.wikipedia.org/wiki/Alfonso_Thiele
 1961,trintignant,,,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
 1961,vaccarella,,,Nino,Vaccarella,1933-03-04,Italian,http://en.wikipedia.org/wiki/Nino_Vaccarella
+1961,trips,,,Wolfgang,von Trips,1928-05-04,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips
 1962,abate,,,Carlo,Abate,1932-07-10,Italian,http://en.wikipedia.org/wiki/Carlo_Mario_Abate
 1962,arundell,,,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
 1962,ashmore,,,Gerry,Ashmore,1936-07-25,British,http://en.wikipedia.org/wiki/Gerry_Ashmore
@@ -1082,6 +1107,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1962,trintignant,,,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
 1962,vaccarella,,,Nino,Vaccarella,1933-03-04,Italian,http://en.wikipedia.org/wiki/Nino_Vaccarella
 1962,vyver,,,Syd,van der Vyver,1920-06-01,South African,http://en.wikipedia.org/wiki/Syd_van_der_Vyver
+1962,walter,,,Heini,Walter,1927-07-28,Swiss,http://en.wikipedia.org/wiki/Heini_Walter
 1963,abate,,,Carlo,Abate,1932-07-10,Italian,http://en.wikipedia.org/wiki/Carlo_Mario_Abate
 1963,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1963,anderson,,,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
@@ -1143,6 +1169,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1963,trevor_taylor,,,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
 1963,tingle,,,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle
 1963,trintignant,,,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
+1963,ward,,,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
 1964,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1964,anderson,,,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
 1964,arundell,,,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
@@ -1183,6 +1210,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1964,surtees,,,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
 1964,taylor,,,John,Taylor,1933-03-23,British,http://en.wikipedia.org/wiki/John_Taylor_(racer)
 1964,trevor_taylor,,,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+1964,trintignant,,,Maurice,Trintignant,1917-10-30,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
 1965,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1965,anderson,,,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
 1965,attwood,,,Richard,Attwood,1940-04-04,British,http://en.wikipedia.org/wiki/Richard_Attwood
@@ -1236,6 +1264,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1965,stewart,,,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
 1965,surtees,,,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
 1965,tingle,,,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle
+1965,vaccarella,,,Nino,Vaccarella,1933-03-04,Italian,http://en.wikipedia.org/wiki/Nino_Vaccarella
 1966,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1966,anderson,,,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
 1966,arundell,,,Peter,Arundell,1933-11-08,British,http://en.wikipedia.org/wiki/Peter_Arundell
@@ -1268,6 +1297,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1966,surtees,,,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
 1966,taylor,,,John,Taylor,1933-03-23,British,http://en.wikipedia.org/wiki/John_Taylor_(racer)
 1966,trevor_taylor,,,Trevor,Taylor,1936-12-26,British,http://en.wikipedia.org/wiki/Trevor_Taylor
+1966,vic_wilson,,,Vic,Wilson,1931-04-14,British,http://en.wikipedia.org/wiki/Vic_Wilson_(motor_racing_driver)
 1967,ahrens,,,Kurt,Ahrens,1940-04-19,German,"http://en.wikipedia.org/wiki/Kurt_Ahrens,_Jr."
 1967,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1967,anderson,,,Bob,Anderson,1931-05-19,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
@@ -1312,6 +1342,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1967,surtees,,,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
 1967,tingle,,,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle
 1967,wietzes,,,Eppie,Wietzes,1938-05-28,Canadian,http://en.wikipedia.org/wiki/Eppie_Wietzes
+1967,williams,,,Jonathan,Williams,1942-10-26,British,http://en.wikipedia.org/wiki/Jonathan_Williams_(racing_driver)
 1968,ahrens,,,Kurt,Ahrens,1940-04-19,German,"http://en.wikipedia.org/wiki/Kurt_Ahrens,_Jr."
 1968,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1968,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
@@ -1354,6 +1385,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1968,tingle,,,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle
 1968,unser,,,Bobby,Unser,1934-02-20,American,http://en.wikipedia.org/wiki/Bobby_Unser
 1968,rooyen,,,Basil,van Rooyen,1939-04-19,South African,http://en.wikipedia.org/wiki/Basil_van_Rooyen
+1968,widdows,,,Robin,Widdows,1942-05-27,British,http://en.wikipedia.org/wiki/Robin_Widdows
 1969,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1969,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1969,attwood,,,Richard,Attwood,1940-04-04,British,http://en.wikipedia.org/wiki/Richard_Attwood
@@ -1384,6 +1416,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1969,stewart,,,Jackie,Stewart,1939-06-11,British,http://en.wikipedia.org/wiki/Jackie_Stewart
 1969,surtees,,,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
 1969,tingle,,,Sam,Tingle,1921-08-24,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle
+1969,rooyen,,,Basil,van Rooyen,1939-04-19,South African,http://en.wikipedia.org/wiki/Basil_van_Rooyen
 1970,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1970,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1970,bell,,,Derek,Bell,1941-10-31,British,http://en.wikipedia.org/wiki/Derek_Bell_(auto_racer)
@@ -1426,6 +1459,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1970,stommelen,,,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
 1970,surtees,,,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
 1970,westbury,,,Peter,Westbury,1938-05-26,British,http://en.wikipedia.org/wiki/Peter_Westbury
+1970,wisell,,,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
 1971,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1971,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1971,barber,,,Skip,Barber,1936-11-16,American,http://en.wikipedia.org/wiki/Skip_Barber
@@ -1475,6 +1509,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1971,surtees,,,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
 1971,lennep,,,Gijs,van Lennep,1942-03-16,Dutch,http://en.wikipedia.org/wiki/Gijs_Van_Lennep
 1971,walker,,,David,Walker,1941-06-10,Australian,http://en.wikipedia.org/wiki/David_Walker_(racing_driver)
+1971,wisell,,,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
 1972,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1972,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1972,barber,,,Skip,Barber,1936-11-16,American,http://en.wikipedia.org/wiki/Skip_Barber
@@ -1516,6 +1551,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1972,stommelen,,,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
 1972,surtees,,,John,Surtees,1934-02-11,British,http://en.wikipedia.org/wiki/John_Surtees
 1972,walker,,,David,Walker,1941-06-10,Australian,http://en.wikipedia.org/wiki/David_Walker_(racing_driver)
+1972,wisell,,,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
 1973,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1973,beltoise,,,Jean-Pierre,Beltoise,1937-04-26,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise
 1973,beuttler,,,Mike,Beuttler,1940-04-13,British,http://en.wikipedia.org/wiki/Mike_Beuttler
@@ -1523,8 +1559,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1973,cevert,,,François,Cevert,1944-02-25,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
 1973,charlton,,,Dave,Charlton,1936-10-27,South African,http://en.wikipedia.org/wiki/Dave_Charlton
 1973,adamich,,,Andrea,de Adamich,1941-10-03,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich
-1973,emerson_fittipaldi,,,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
 1973,wilson_fittipaldi,,,Wilson,Fittipaldi,1943-12-25,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi
+1973,emerson_fittipaldi,,,Emerson,Fittipaldi,1946-12-12,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi
 1973,follmer,,,George,Follmer,1934-01-27,American,http://en.wikipedia.org/wiki/George_Follmer
 1973,galli,,,Nanni,Galli,1940-10-02,Italian,http://en.wikipedia.org/wiki/Nanni_Galli
 1973,ganley,,,Howden,Ganley,1941-12-24,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley
@@ -1558,6 +1594,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1973,opel,,,Rikky,von Opel,1947-10-14,Liechtensteiner,http://en.wikipedia.org/wiki/Rikky_von_Opel
 1973,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
 1973,williamson,,,Roger,Williamson,1948-02-02,British,http://en.wikipedia.org/wiki/Roger_Williamson
+1973,wisell,,,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
 1974,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1974,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1974,ashley,,,Ian,Ashley,1947-10-26,British,http://en.wikipedia.org/wiki/Ian_Ashley
@@ -1608,8 +1645,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1974,revson,,,Peter,Revson,1939-02-27,American,http://en.wikipedia.org/wiki/Peter_Revson
 1974,robarts,,,Richard,Robarts,1944-09-22,British,http://en.wikipedia.org/wiki/Richard_Robarts
 1974,roos,,,Bertil,Roos,1943-10-12,Swedish,http://en.wikipedia.org/wiki/Bertil_Roos
-1974,scheckter,,,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
 1974,ian_scheckter,,,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter
+1974,scheckter,,,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
 1974,schenken,,,Tim,Schenken,1943-09-26,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
 1974,schuppan,,,Vern,Schuppan,1943-03-19,Australian,http://en.wikipedia.org/wiki/Vern_Schuppan
 1974,stommelen,,,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
@@ -1619,6 +1656,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1974,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
 1974,wietzes,,,Eppie,Wietzes,1938-05-28,Canadian,http://en.wikipedia.org/wiki/Eppie_Wietzes
 1974,wilds,,,Mike,Wilds,1946-01-07,British,http://en.wikipedia.org/wiki/Mike_Wilds
+1974,wisell,,,Reine,Wisell,1941-09-30,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
 1975,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1975,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1975,ashley,,,Ian,Ashley,1947-10-26,British,http://en.wikipedia.org/wiki/Ian_Ashley
@@ -1658,8 +1696,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1975,pryce,,,Tom,Pryce,1949-06-11,British,http://en.wikipedia.org/wiki/Tom_Pryce
 1975,regazzoni,,,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
 1975,reutemann,,,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
-1975,ian_scheckter,,,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter
 1975,scheckter,,,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+1975,ian_scheckter,,,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter
 1975,schuppan,,,Vern,Schuppan,1943-03-19,Australian,http://en.wikipedia.org/wiki/Vern_Schuppan
 1975,stommelen,,,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
 1975,stuck,,,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
@@ -1670,6 +1708,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1975,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
 1975,wilds,,,Mike,Wilds,1946-01-07,British,http://en.wikipedia.org/wiki/Mike_Wilds
 1975,wunderink,,,Roelof,Wunderink,1948-12-12,Dutch,http://en.wikipedia.org/wiki/Roelof_Wunderink
+1975,zorzi,,,Renzo,Zorzi,1946-12-12,Italian,http://en.wikipedia.org/wiki/Renzo_Zorzi
 1976,amon,,,Chris,Amon,1943-07-20,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 1976,andersson,,,Conny,Andersson,1939-12-28,Swedish,http://en.wikipedia.org/wiki/Conny_Andersson_(racing_driver)
 1976,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
@@ -1713,8 +1752,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1976,regazzoni,,,Clay,Regazzoni,1939-09-05,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni
 1976,reutemann,,,Carlos,Reutemann,1942-04-12,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann
 1976,ribeiro,,,Alex,Ribeiro,1948-11-07,Brazilian,http://en.wikipedia.org/wiki/Alex_Ribeiro
-1976,ian_scheckter,,,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter
 1976,scheckter,,,Jody,Scheckter,1950-01-29,South African,http://en.wikipedia.org/wiki/Jody_Scheckter
+1976,ian_scheckter,,,Ian,Scheckter,1947-08-22,South African,http://en.wikipedia.org/wiki/Ian_Scheckter
 1976,stommelen,,,Rolf,Stommelen,1943-07-11,German,http://en.wikipedia.org/wiki/Rolf_Stommelen
 1976,stuck,,,Hans-Joachim,Stuck,1951-01-01,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck
 1976,stuppacher,,,Otto,Stuppacher,1947-03-03,Austrian,http://en.wikipedia.org/wiki/Otto_Stuppacher
@@ -1723,6 +1762,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1976,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
 1976,wilds,,,Mike,Wilds,1946-01-07,British,http://en.wikipedia.org/wiki/Mike_Wilds
 1976,zapico,,,Emilio,Zapico,1944-05-27,Spanish,http://en.wikipedia.org/wiki/Emilio_Zapico
+1976,zorzi,,,Renzo,Zorzi,1946-12-12,Italian,http://en.wikipedia.org/wiki/Renzo_Zorzi
 1977,andersson,,,Conny,Andersson,1939-12-28,Swedish,http://en.wikipedia.org/wiki/Conny_Andersson_(racing_driver)
 1977,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1977,ashley,,,Ian,Ashley,1947-10-26,British,http://en.wikipedia.org/wiki/Ian_Ashley
@@ -1752,8 +1792,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1977,laffite,,,Jacques,Laffite,1943-11-21,French,http://en.wikipedia.org/wiki/Jacques_Laffite
 1977,lauda,,,Niki,Lauda,1949-02-22,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
 1977,leoni,,,Lamberto,Leoni,1953-05-24,Italian,http://en.wikipedia.org/wiki/Lamberto_Leoni
-1977,lunger,,,Brett,Lunger,1945-11-14,American,http://en.wikipedia.org/wiki/Brett_Lunger
 1977,hayje,,,Boy,Lunger,1949-05-03,Dutch,http://en.wikipedia.org/wiki/Boy_Hayje
+1977,lunger,,,Brett,Lunger,1945-11-14,American,http://en.wikipedia.org/wiki/Brett_Lunger
 1977,mass,,,Jochen,Mass,1946-09-30,German,http://en.wikipedia.org/wiki/Jochen_Mass
 1977,mcguire,,,Brian,McGuire,1945-12-13,Australian,http://en.wikipedia.org/wiki/Brian_McGuire
 1977,merzario,,,Arturo,Merzario,1943-03-11,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario
@@ -1783,6 +1823,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1977,trimmer,,,Tony,Trimmer,1943-01-24,British,http://en.wikipedia.org/wiki/Tony_Trimmer
 1977,gilles_villeneuve,,,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
 1977,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+1977,zorzi,,,Renzo,Zorzi,1946-12-12,Italian,http://en.wikipedia.org/wiki/Renzo_Zorzi
 1978,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1978,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
 1978,binder,,,Hans,Binder,1948-06-12,Austrian,http://en.wikipedia.org/wiki/Hans_Binder
@@ -1828,6 +1869,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1978,tambay,,,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
 1978,trimmer,,,Tony,Trimmer,1943-01-24,British,http://en.wikipedia.org/wiki/Tony_Trimmer
 1978,gilles_villeneuve,,,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
+1978,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
 1979,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1979,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
 1979,brambilla,,,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
@@ -1863,6 +1905,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1979,tambay,,,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
 1979,gilles_villeneuve,,,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
 1979,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+1979,zunino,,,Ricardo,Zunino,1949-04-13,Argentine,http://en.wikipedia.org/wiki/Ricardo_Zunino
 1980,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1980,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
 1980,brambilla,,,Vittorio,Brambilla,1937-11-11,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
@@ -1903,6 +1946,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1980,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
 1980,desire_wilson,,,Desiré,Wilson,1953-11-26,South African,http://en.wikipedia.org/wiki/Desir%C3%A9_Wilson
 1980,manfred_winkelhock,,,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
+1980,zunino,,,Ricardo,Zunino,1949-04-13,Argentine,http://en.wikipedia.org/wiki/Ricardo_Zunino
 1981,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1981,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1981,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
@@ -1941,6 +1985,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1981,villeneuve_sr,,,Jacques,Villeneuve Sr.,1953-11-04,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve_(elder)
 1981,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1981,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+1981,zunino,,,Ricardo,Zunino,1949-04-13,Argentine,http://en.wikipedia.org/wiki/Ricardo_Zunino
 1982,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1982,mario_andretti,,,Mario,Andretti,1940-02-28,American,http://en.wikipedia.org/wiki/Mario_Andretti
 1982,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
@@ -1980,6 +2025,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1982,gilles_villeneuve,,,Gilles,Villeneuve,1950-01-18,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve
 1982,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1982,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+1982,manfred_winkelhock,,,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
 1983,acheson,,,Kenny,Acheson,1957-11-27,British,http://en.wikipedia.org/wiki/Kenny_Acheson
 1983,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1983,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
@@ -2014,6 +2060,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1983,villeneuve_sr,,,Jacques,Villeneuve Sr.,1953-11-04,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve_(elder)
 1983,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1983,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+1983,manfred_winkelhock,,,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
 1984,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1984,alliot,,,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
 1984,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
@@ -2026,8 +2073,8 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1984,cheever,,,Eddie,Cheever,1958-01-10,American,http://en.wikipedia.org/wiki/Eddie_Cheever
 1984,angelis,,,Elio,de Angelis,1958-03-26,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis
 1984,cesaris,,,Andrea,de Cesaris,1959-05-31,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
-1984,corrado_fabi,,,Corrado,Fabi,1961-04-12,Italian,http://en.wikipedia.org/wiki/Corrado_Fabi
 1984,fabi,,,Teo,Fabi,1955-03-09,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
+1984,corrado_fabi,,,Corrado,Fabi,1961-04-12,Italian,http://en.wikipedia.org/wiki/Corrado_Fabi
 1984,gartner,,,Jo,Gartner,1954-01-24,Austrian,http://en.wikipedia.org/wiki/Jo_Gartner
 1984,ghinzani,,,Piercarlo,Ghinzani,1952-01-16,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani
 1984,hesnault,,,François,Hesnault,1956-12-30,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Hesnault
@@ -2048,6 +2095,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1984,tambay,,,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
 1984,thackwell,,,Mike,Thackwell,1961-03-30,New Zealander,http://en.wikipedia.org/wiki/Mike_Thackwell
 1984,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
+1984,manfred_winkelhock,,,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
 1985,acheson,,,Kenny,Acheson,1957-11-27,British,http://en.wikipedia.org/wiki/Kenny_Acheson
 1985,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1985,alliot,,,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
@@ -2083,6 +2131,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1985,tambay,,,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
 1985,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1985,watson,,,John,Watson,1946-05-04,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver)
+1985,manfred_winkelhock,,,Manfred,Winkelhock,1951-10-06,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
 1986,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1986,alliot,,,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
 1986,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
@@ -2114,6 +2163,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1986,streiff,,,Philippe,Streiff,1955-06-26,French,http://en.wikipedia.org/wiki/Philippe_Streiff
 1986,surer,,,Marc,Surer,1951-09-18,Swiss,http://en.wikipedia.org/wiki/Marc_Surer
 1986,tambay,,,Patrick,Tambay,1949-06-25,French,http://en.wikipedia.org/wiki/Patrick_Tambay
+1986,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1987,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1987,alliot,,,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
 1987,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
@@ -2145,6 +2195,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1987,senna,,,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
 1987,streiff,,,Philippe,Streiff,1955-06-26,French,http://en.wikipedia.org/wiki/Philippe_Streiff
 1987,tarquini,,,Gabriele,Tarquini,1962-03-02,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
+1987,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1988,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1988,alliot,,,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
 1988,arnoux,,,René,Arnoux,1948-07-04,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
@@ -2180,6 +2231,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1988,streiff,,,Philippe,Streiff,1955-06-26,French,http://en.wikipedia.org/wiki/Philippe_Streiff
 1988,suzuki,,,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
 1988,tarquini,,,Gabriele,Tarquini,1962-03-02,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
+1988,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1989,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1989,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1989,alliot,,,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
@@ -2226,6 +2278,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1989,tarquini,,,Gabriele,Tarquini,1962-03-02,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
 1989,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1989,weidler,,,Volker,Weidler,1962-03-18,German,http://en.wikipedia.org/wiki/Volker_Weidler
+1989,joachim_winkelhock,,,Joachim,Winkelhock,1960-10-24,German,http://en.wikipedia.org/wiki/Joachim_Winkelhock
 1990,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1990,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1990,alliot,,,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
@@ -2265,6 +2318,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1990,senna,,,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
 1990,suzuki,,,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
 1990,tarquini,,,Gabriele,Tarquini,1962-03-02,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
+1990,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1991,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1991,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1991,bailey,,,Julian,Bailey,1961-10-09,British,http://en.wikipedia.org/wiki/Julian_Bailey
@@ -2305,6 +2359,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1991,tarquini,,,Gabriele,Tarquini,1962-03-02,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
 1991,poele,,,Eric,van de Poele,1961-09-30,Belgian,http://en.wikipedia.org/wiki/Eric_van_de_Poele
 1991,wendlinger,,,Karl,Wendlinger,1968-12-20,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger
+1991,zanardi,,,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
 1992,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1992,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1992,amati,,,Giovanna,Amati,1959-07-20,Italian,http://en.wikipedia.org/wiki/Giovanna_Amati
@@ -2341,6 +2396,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1992,tarquini,,,Gabriele,Tarquini,1962-03-02,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
 1992,poele,,,Eric,van de Poele,1961-09-30,Belgian,http://en.wikipedia.org/wiki/Eric_van_de_Poele
 1992,wendlinger,,,Karl,Wendlinger,1968-12-20,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger
+1992,zanardi,,,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
 1993,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1993,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1993,alliot,,,Philippe,Alliot,1954-07-27,French,http://en.wikipedia.org/wiki/Philippe_Alliot
@@ -2371,10 +2427,11 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1993,prost,,,Alain,Prost,1955-02-24,French,http://en.wikipedia.org/wiki/Alain_Prost
 1993,michael_schumacher,,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
 1993,senna,,,Ayrton,Senna,1960-03-21,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
-1993,suzuki,,,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
 1993,toshio_suzuki,,,Toshio,Suzuki,1955-03-10,Japanese,http://en.wikipedia.org/wiki/Toshio_Suzuki_(driver)
+1993,suzuki,,,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
 1993,warwick,,,Derek,Warwick,1954-08-27,British,http://en.wikipedia.org/wiki/Derek_Warwick
 1993,wendlinger,,,Karl,Wendlinger,1968-12-20,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger
+1993,zanardi,,,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
 1994,adams,,,Philippe,Adams,1969-11-19,Belgian,http://en.wikipedia.org/wiki/Philippe_Adams
 1994,alboreto,,,Michele,Alboreto,1956-12-23,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 1994,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
@@ -2420,6 +2477,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1994,suzuki,,,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
 1994,verstappen,,,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
 1994,wendlinger,,,Karl,Wendlinger,1968-12-20,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger
+1994,zanardi,,,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
 1995,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1995,badoer,,BAD,Luca,Badoer,1971-01-25,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
 1995,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2454,6 +2512,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1995,suzuki,,,Aguri,Suzuki,1960-09-08,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki
 1995,tarquini,,,Gabriele,Tarquini,1962-03-02,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
 1995,verstappen,,,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
+1995,wendlinger,,,Karl,Wendlinger,1968-12-20,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger
 1996,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1996,badoer,,BAD,Luca,Badoer,1971-01-25,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
 1996,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2477,6 +2536,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1996,salo,,,Mika,Salo,1966-11-30,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
 1996,michael_schumacher,,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
 1996,verstappen,,,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
+1996,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 1997,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1997,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
 1997,berger,,,Gerhard,Berger,1959-08-27,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger
@@ -2504,6 +2564,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1997,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 1997,verstappen,,,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
 1997,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+1997,wurz,,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
 1998,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1998,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
 1998,coulthard,,COU,David,Coulthard,1971-03-27,British,http://en.wikipedia.org/wiki/David_Coulthard
@@ -2526,6 +2587,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1998,tuero,,,Esteban,Tuero,1978-04-22,Argentine,http://en.wikipedia.org/wiki/Esteban_Tuero
 1998,verstappen,,,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
 1998,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
+1998,wurz,,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
 1999,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 1999,badoer,,BAD,Luca,Badoer,1971-01-25,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
 1999,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2549,6 +2611,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 1999,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 1999,wurz,,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
 1999,zanardi,,,Alessandro,Zanardi,1966-10-23,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
+1999,zonta,,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
 2000,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 2000,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
 2000,burti,,,Luciano,Burti,1975-03-05,Brazilian,http://en.wikipedia.org/wiki/Luciano_Burti
@@ -2571,6 +2634,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2000,verstappen,,,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
 2000,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 2000,wurz,,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
+2000,zonta,,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
 2001,alesi,,,Jean,Alesi,1964-06-11,French,http://en.wikipedia.org/wiki/Jean_Alesi
 2001,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2001,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2596,6 +2660,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2001,verstappen,,,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
 2001,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 2001,yoong,,,Alex,Yoong,1976-07-20,Malaysian,http://en.wikipedia.org/wiki/Alex_Yoong
+2001,zonta,,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
 2002,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
 2002,bernoldi,,,Enrique,Bernoldi,1978-10-19,Brazilian,http://en.wikipedia.org/wiki/Enrique_Bernoldi
 2002,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
@@ -2613,11 +2678,12 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2002,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
 2002,salo,,,Mika,Salo,1966-11-30,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
 2002,sato,,SAT,Takuma,Sato,1977-01-28,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
-2002,michael_schumacher,,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
 2002,ralf_schumacher,,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+2002,michael_schumacher,,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
 2002,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 2002,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 2002,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
+2002,yoong,,,Alex,Yoong,1976-07-20,Malaysian,http://en.wikipedia.org/wiki/Alex_Yoong
 2003,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2003,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
 2003,baumgartner,,,Zsolt,Baumgartner,1981-01-01,Hungarian,http://en.wikipedia.org/wiki/Zsolt_Baumgartner
@@ -2641,6 +2707,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2003,verstappen,,,Jos,Verstappen,1972-03-04,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
 2003,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 2003,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
+2003,wilson,,,Justin,Wilson,1978-07-31,British,http://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver)
 2004,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2004,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
 2004,baumgartner,,,Zsolt,Baumgartner,1981-01-01,Hungarian,http://en.wikipedia.org/wiki/Zsolt_Baumgartner
@@ -2665,6 +2732,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2004,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 2004,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 2004,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
+2004,zonta,,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
 2005,albers,,ALB,Christijan,Albers,1979-04-16,Dutch,http://en.wikipedia.org/wiki/Christijan_Albers
 2005,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2005,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2685,12 +2753,13 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2005,pizzonia,,PIZ,Antônio,Pizzonia,1980-09-11,Brazilian,http://en.wikipedia.org/wiki/Ant%C3%B4nio_Pizzonia
 2005,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
 2005,sato,,SAT,Takuma,Sato,1977-01-28,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
-2005,ralf_schumacher,,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
 2005,michael_schumacher,,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
+2005,ralf_schumacher,,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
 2005,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 2005,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 2005,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
 2005,wurz,,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
+2005,zonta,,ZON,Ricardo,Zonta,1976-03-23,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
 2006,albers,,ALB,Christijan,Albers,1979-04-16,Dutch,http://en.wikipedia.org/wiki/Christijan_Albers
 2006,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2006,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2711,12 +2780,13 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2006,raikkonen,7,RAI,Kimi,Räikkönen,1979-10-17,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
 2006,rosberg,6,ROS,Nico,Rosberg,1985-06-27,German,http://en.wikipedia.org/wiki/Nico_Rosberg
 2006,sato,,SAT,Takuma,Sato,1977-01-28,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
-2006,michael_schumacher,,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
 2006,ralf_schumacher,,SCH,Ralf,Schumacher,1975-06-30,German,http://en.wikipedia.org/wiki/Ralf_Schumacher
+2006,michael_schumacher,,MSC,Michael,Schumacher,1969-01-03,German,http://en.wikipedia.org/wiki/Michael_Schumacher
 2006,speed,,SPE,Scott,Speed,1983-01-24,American,http://en.wikipedia.org/wiki/Scott_Speed
 2006,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 2006,villeneuve,,VIL,Jacques,Villeneuve,1971-04-09,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve
 2006,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
+2006,yamamoto,,YAM,Sakon,Yamamoto,1982-07-09,Japanese,http://en.wikipedia.org/wiki/Sakon_Yamamoto
 2007,albers,,ALB,Christijan,Albers,1979-04-16,Dutch,http://en.wikipedia.org/wiki/Christijan_Albers
 2007,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2007,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2742,6 +2812,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2007,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
 2007,markus_winkelhock,,WIN,Markus,Winkelhock,1980-06-13,German,http://en.wikipedia.org/wiki/Markus_Winkelhock
 2007,wurz,,WUR,Alexander,Wurz,1974-02-15,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz
+2007,yamamoto,,YAM,Sakon,Yamamoto,1982-07-09,Japanese,http://en.wikipedia.org/wiki/Sakon_Yamamoto
 2008,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2008,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
 2008,bourdais,,BOU,Sébastien,Bourdais,1979-02-28,French,http://en.wikipedia.org/wiki/S%C3%A9bastien_Bourdais
@@ -2763,6 +2834,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2008,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
 2008,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 2008,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+2008,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
 2009,alguersuari,,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
 2009,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2009,badoer,,BAD,Luca,Badoer,1971-01-25,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
@@ -2787,6 +2859,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2009,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
 2009,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 2009,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+2009,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
 2010,alguersuari,,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
 2010,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2010,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2813,6 +2886,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2010,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 2010,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
 2010,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
+2010,yamamoto,,YAM,Sakon,Yamamoto,1982-07-09,Japanese,http://en.wikipedia.org/wiki/Sakon_Yamamoto
 2011,alguersuari,,ALG,Jaime,Alguersuari,1990-03-23,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari
 2011,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2011,barrichello,,BAR,Rubens,Barrichello,1972-05-23,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello
@@ -2840,6 +2914,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2011,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
 2011,trulli,,TRU,Jarno,Trulli,1974-07-13,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
 2011,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+2011,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
 2012,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2012,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
 2012,ambrosio,,DAM,Jérôme,d'Ambrosio,1985-12-27,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio
@@ -2864,6 +2939,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2012,bruno_senna,,SEN,Bruno,Senna,1983-10-15,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
 2012,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
 2012,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+2012,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
 2013,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2013,jules_bianchi,17,BIA,Jules,Bianchi,1989-08-03,French,http://en.wikipedia.org/wiki/Jules_Bianchi
 2013,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
@@ -2886,6 +2962,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2013,garde,,VDG,Giedo,van der Garde,1985-04-25,Dutch,http://en.wikipedia.org/wiki/Giedo_van_der_Garde
 2013,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
 2013,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+2013,webber,,WEB,Mark,Webber,1976-08-27,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)
 2014,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2014,jules_bianchi,17,BIA,Jules,Bianchi,1989-08-03,French,http://en.wikipedia.org/wiki/Jules_Bianchi
 2014,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
@@ -2909,6 +2986,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2014,stevens,28,STE,Will,Stevens,1991-06-28,British,http://en.wikipedia.org/wiki/Will_Stevens
 2014,sutil,99,SUT,Adrian,Sutil,1983-01-11,German,http://en.wikipedia.org/wiki/Adrian_Sutil
 2014,vergne,25,VER,Jean-Éric,Vergne,1990-04-25,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+2014,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
 2015,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2015,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
 2015,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
@@ -2930,6 +3008,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2015,sainz,55,SAI,Carlos,Sainz,1994-09-01,Spanish,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.
 2015,stevens,28,STE,Will,Stevens,1991-06-28,British,http://en.wikipedia.org/wiki/Will_Stevens
 2015,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
+2015,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
 2016,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2016,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
 2016,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
@@ -2953,6 +3032,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2016,vandoorne,2,VAN,Stoffel,Vandoorne,1992-03-26,Belgian,http://en.wikipedia.org/wiki/Stoffel_Vandoorne
 2016,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
 2016,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+2016,wehrlein,94,WEH,Pascal,Wehrlein,1994-10-18,German,http://en.wikipedia.org/wiki/Pascal_Wehrlein
 2017,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2017,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
 2017,button,22,BUT,Jenson,Button,1980-01-19,British,http://en.wikipedia.org/wiki/Jenson_Button
@@ -2977,6 +3057,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2017,vandoorne,2,VAN,Stoffel,Vandoorne,1992-03-26,Belgian,http://en.wikipedia.org/wiki/Stoffel_Vandoorne
 2017,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
 2017,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+2017,wehrlein,94,WEH,Pascal,Wehrlein,1994-10-18,German,http://en.wikipedia.org/wiki/Pascal_Wehrlein
 2018,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2018,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
 2018,ericsson,9,ERI,Marcus,Ericsson,1990-09-02,Swedish,http://en.wikipedia.org/wiki/Marcus_Ericsson
@@ -2996,6 +3077,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2018,stroll,18,STR,Lance,Stroll,1998-10-29,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll
 2018,vandoorne,2,VAN,Stoffel,Vandoorne,1992-03-26,Belgian,http://en.wikipedia.org/wiki/Stoffel_Vandoorne
 2018,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
+2018,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
 2019,albon,23,ALB,Alexander,Albon,1996-03-23,Thai,http://en.wikipedia.org/wiki/Alexander_Albon
 2019,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
 2019,gasly,10,GAS,Pierre,Gasly,1996-02-07,French,http://en.wikipedia.org/wiki/Pierre_Gasly
@@ -3015,6 +3097,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2019,sainz,55,SAI,Carlos,Sainz,1994-09-01,Spanish,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.
 2019,stroll,18,STR,Lance,Stroll,1998-10-29,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll
 2019,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
+2019,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
 2020,aitken,89,AIT,Jack,Aitken,1995-09-23,British,http://en.wikipedia.org/wiki/Jack_Aitken
 2020,albon,23,ALB,Alexander,Albon,1996-03-23,Thai,http://en.wikipedia.org/wiki/Alexander_Albon
 2020,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
@@ -3037,6 +3120,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2020,sainz,55,SAI,Carlos,Sainz,1994-09-01,Spanish,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.
 2020,stroll,18,STR,Lance,Stroll,1998-10-29,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll
 2020,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
+2020,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
 2021,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2021,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
 2021,gasly,10,GAS,Pierre,Gasly,1996-02-07,French,http://en.wikipedia.org/wiki/Pierre_Gasly
@@ -3057,6 +3141,7 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2021,stroll,18,STR,Lance,Stroll,1998-10-29,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll
 2021,tsunoda,22,TSU,Yuki,Tsunoda,2000-05-11,Japanese,http://en.wikipedia.org/wiki/Yuki_Tsunoda
 2021,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
+2021,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
 2022,albon,23,ALB,Alexander,Albon,1996-03-23,Thai,http://en.wikipedia.org/wiki/Alexander_Albon
 2022,alonso,14,ALO,Fernando,Alonso,1981-07-29,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 2022,bottas,77,BOT,Valtteri,Bottas,1989-08-28,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
@@ -3078,3 +3163,4 @@ year,DriverId,Number,code,forename,surname,dob,nationality,url
 2022,tsunoda,22,TSU,Yuki,Tsunoda,2000-05-11,Japanese,http://en.wikipedia.org/wiki/Yuki_Tsunoda
 2022,max_verstappen,33,VER,Max,Verstappen,1997-09-30,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
 2022,vettel,5,VET,Sebastian,Vettel,1987-07-03,German,http://en.wikipedia.org/wiki/Sebastian_Vettel
+2022,zhou,24,ZHO,Guanyu,Zhou,1999-05-30,Chinese,http://en.wikipedia.org/wiki/Guanyu_Zhou
