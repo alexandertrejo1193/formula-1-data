@@ -2162,8 +2162,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2013,Malaysian Grand Prix,vettel,3,32,17:01:24,2,21.482
 2013,Malaysian Grand Prix,chilton,3,31,17:01:52,2,22.115
 2013,Malaysian Grand Prix,maldonado,3,32,17:03:12,2,22.703
-2013,Malaysian Grand Prix,pic,3,32,17:03:34,2,23.373
 2013,Malaysian Grand Prix,massa,3,33,17:03:34,2,21.561
+2013,Malaysian Grand Prix,pic,3,32,17:03:34,2,23.373
 2013,Malaysian Grand Prix,perez,3,33,17:03:40,2,21.338
 2013,Malaysian Grand Prix,ricciardo,3,33,17:04:13,2,22.008
 2013,Malaysian Grand Prix,hulkenberg,3,34,17:05:21,2,22.629
@@ -2198,8 +2198,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2013,Chinese Grand Prix,grosjean,1,7,15:16:21,3,20.083
 2013,Chinese Grand Prix,maldonado,1,7,15:16:30,3,20.794
 2013,Chinese Grand Prix,chilton,1,7,15:16:42,3,21.063
-2013,Chinese Grand Prix,hulkenberg,1,14,15:28:27,3,22.838
 2013,Chinese Grand Prix,vettel,1,14,15:28:27,3,19.323
+2013,Chinese Grand Prix,hulkenberg,1,14,15:28:27,3,22.838
 2013,Chinese Grand Prix,resta,1,14,15:28:38,3,20.598
 2013,Chinese Grand Prix,webber,2,15,15:30:32,3,26.956
 2013,Chinese Grand Prix,vergne,1,15,15:30:41,3,20.977
@@ -3698,8 +3698,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2014,Russian Grand Prix,gutierrez,1,39,16:12:57,16,30.303
 2014,Russian Grand Prix,ericsson,2,43,16:21:18,16,30.760
 2014,United States Grand Prix,kevin_magnussen,1,1,14:05:26,17,26.881
-2014,United States Grand Prix,button,1,1,14:05:32,17,26.806
 2014,United States Grand Prix,hulkenberg,1,1,14:05:32,17,33.427
+2014,United States Grand Prix,button,1,1,14:05:32,17,26.806
 2014,United States Grand Prix,gutierrez,1,1,14:05:34,17,25.007
 2014,United States Grand Prix,vettel,1,1,14:05:37,17,24.226
 2014,United States Grand Prix,vettel,2,2,14:08:25,17,23.909
@@ -3736,8 +3736,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2014,Brazilian Grand Prix,maldonado,1,4,14:08:39,18,23.753
 2014,Brazilian Grand Prix,massa,1,5,14:09:42,18,23.220
 2014,Brazilian Grand Prix,perez,1,5,14:09:55,18,23.467
-2014,Brazilian Grand Prix,bottas,1,6,14:11:00,18,23.294
 2014,Brazilian Grand Prix,button,1,6,14:11:00,18,23.018
+2014,Brazilian Grand Prix,bottas,1,6,14:11:00,18,23.294
 2014,Brazilian Grand Prix,vettel,1,6,14:11:07,18,23.808
 2014,Brazilian Grand Prix,rosberg,1,7,14:12:10,18,23.730
 2014,Brazilian Grand Prix,kevin_magnussen,1,7,14:12:21,18,23.061
@@ -4402,8 +4402,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2015,United States Grand Prix,ericsson,1,16,14:36:37,16,29.728
 2015,United States Grand Prix,button,1,17,14:38:36,16,27.286
 2015,United States Grand Prix,hamilton,1,18,14:40:00,16,24.354
-2015,United States Grand Prix,max_verstappen,1,18,14:40:12,16,25.527
 2015,United States Grand Prix,vettel,1,18,14:40:12,16,25.019
+2015,United States Grand Prix,max_verstappen,1,18,14:40:12,16,25.527
 2015,United States Grand Prix,massa,1,18,14:40:23,16,24.646
 2015,United States Grand Prix,nasr,3,17,14:40:29,16,25.714
 2015,United States Grand Prix,rossi,2,17,14:40:33,16,26.520
@@ -4674,8 +4674,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2016,Chinese Grand Prix,perez,1,4,14:10:46,3,23.215
 2016,Chinese Grand Prix,vettel,1,4,14:10:50,3,30.115
 2016,Chinese Grand Prix,hulkenberg,1,4,14:10:50,3,27.683
-2016,Chinese Grand Prix,sainz,1,4,14:10:51,3,25.754
 2016,Chinese Grand Prix,button,1,4,14:10:51,3,24.072
+2016,Chinese Grand Prix,sainz,1,4,14:10:51,3,25.754
 2016,Chinese Grand Prix,bottas,1,4,14:10:52,3,22.682
 2016,Chinese Grand Prix,max_verstappen,1,4,14:10:54,3,30.034
 2016,Chinese Grand Prix,ericsson,1,4,14:10:56,3,23.955
@@ -4887,8 +4887,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2016,Canadian Grand Prix,hulkenberg,2,51,15:11:06,7,23.111
 2016,European Grand Prix,haryanto,1,1,17:05:57,8,33.405
 2016,European Grand Prix,sainz,1,4,17:11:34,8,22.028
-2016,European Grand Prix,alonso,1,5,17:13:24,8,20.282
 2016,European Grand Prix,max_verstappen,1,5,17:13:24,8,20.069
+2016,European Grand Prix,alonso,1,5,17:13:24,8,20.282
 2016,European Grand Prix,kvyat,1,5,17:13:37,8,24.802
 2016,European Grand Prix,ricciardo,1,6,17:15:04,8,19.840
 2016,European Grand Prix,button,1,6,17:15:21,8,20.185
@@ -5154,8 +5154,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2016,Belgian Grand Prix,hulkenberg,1,6,14:15:53,13,23.564
 2016,Belgian Grand Prix,raikkonen,2,5,14:15:56,13,23.061
 2016,Belgian Grand Prix,perez,1,6,14:16:04,13,23.783
-2016,Belgian Grand Prix,jolyon_palmer,1,6,14:16:08,13,22.698
 2016,Belgian Grand Prix,grosjean,1,6,14:16:08,13,23.705
+2016,Belgian Grand Prix,jolyon_palmer,1,6,14:16:08,13,22.698
 2016,Belgian Grand Prix,ocon,1,6,14:16:18,13,28.718
 2016,Belgian Grand Prix,bottas,1,7,14:18:36,13,22.190
 2016,Belgian Grand Prix,gutierrez,1,7,14:18:38,13,23.486
@@ -5313,8 +5313,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2016,Malaysian Grand Prix,perez,1,9,15:20:38,16,27.024
 2016,Malaysian Grand Prix,button,1,9,15:20:44,16,24.738
 2016,Malaysian Grand Prix,hulkenberg,1,9,15:20:45,16,26.609
-2016,Malaysian Grand Prix,rosberg,1,9,15:20:50,16,23.750
 2016,Malaysian Grand Prix,alonso,1,9,15:20:50,16,25.195
+2016,Malaysian Grand Prix,rosberg,1,9,15:20:50,16,23.750
 2016,Malaysian Grand Prix,wehrlein,1,9,15:20:59,16,25.820
 2016,Malaysian Grand Prix,ocon,1,12,15:26:26,16,25.368
 2016,Malaysian Grand Prix,hamilton,1,20,15:39:17,16,23.689
@@ -5598,8 +5598,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2017,Chinese Grand Prix,ocon,2,4,14:12:49,2,33.491
 2017,Chinese Grand Prix,alonso,2,4,14:12:55,2,17.304
 2017,Chinese Grand Prix,kvyat,2,4,14:13:00,2,17.320
-2017,Chinese Grand Prix,perez,2,4,14:13:01,2,17.416
 2017,Chinese Grand Prix,massa,2,4,14:13:01,2,17.324
+2017,Chinese Grand Prix,perez,2,4,14:13:01,2,17.416
 2017,Chinese Grand Prix,kevin_magnussen,2,4,14:13:03,2,17.296
 2017,Chinese Grand Prix,jolyon_palmer,1,4,14:13:06,2,17.291
 2017,Chinese Grand Prix,vandoorne,2,4,14:13:08,2,17.325
@@ -7851,8 +7851,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2020,Emilia Romagna Grand Prix,norris,1,13,13:30:56,13,29.683
 2020,Emilia Romagna Grand Prix,ocon,1,13,13:30:59,13,30.559
 2020,Emilia Romagna Grand Prix,ricciardo,1,14,13:32:09,13,30.204
-2020,Emilia Romagna Grand Prix,albon,1,14,13:32:12,13,29.770
 2020,Emilia Romagna Grand Prix,kvyat,1,14,13:32:12,13,30.277
+2020,Emilia Romagna Grand Prix,albon,1,14,13:32:12,13,29.770
 2020,Emilia Romagna Grand Prix,sainz,1,17,13:36:15,13,29.950
 2020,Emilia Romagna Grand Prix,max_verstappen,1,18,13:37:06,13,29.427
 2020,Emilia Romagna Grand Prix,bottas,1,19,13:38:22,13,29.600
@@ -8267,8 +8267,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2021,Azerbaijan Grand Prix,mazepin,2,34,17:11:01,6,21.958
 2021,Azerbaijan Grand Prix,mick_schumacher,3,44,17:28:35,6,21.587
 2021,Azerbaijan Grand Prix,mazepin,3,44,17:29:37,6,24.780
-2021,Azerbaijan Grand Prix,hamilton,2,47,17:33:39,6,15.432
 2021,Azerbaijan Grand Prix,perez,2,47,17:33:39,6,15.277
+2021,Azerbaijan Grand Prix,hamilton,2,47,17:33:39,6,15.432
 2021,Azerbaijan Grand Prix,vettel,2,47,17:33:42,6,14.945
 2021,Azerbaijan Grand Prix,gasly,2,47,17:33:45,6,15.085
 2021,Azerbaijan Grand Prix,leclerc,2,47,17:33:48,6,15.092
@@ -8279,8 +8279,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2021,Azerbaijan Grand Prix,alonso,3,47,17:34:03,6,15.432
 2021,Azerbaijan Grand Prix,raikkonen,2,47,17:34:05,6,15.064
 2021,Azerbaijan Grand Prix,giovinazzi,3,47,17:34:07,6,14.881
-2021,Azerbaijan Grand Prix,bottas,2,47,17:34:08,6,21.346
 2021,Azerbaijan Grand Prix,russell,3,47,17:34:08,6,21.438
+2021,Azerbaijan Grand Prix,bottas,2,47,17:34:08,6,21.346
 2021,Azerbaijan Grand Prix,mazepin,4,46,17:34:18,6,15.054
 2021,Azerbaijan Grand Prix,mick_schumacher,4,47,17:35:06,6,15.058
 2021,Azerbaijan Grand Prix,perez,3,48,17:36:45,6,33:18.466
@@ -8941,8 +8941,8 @@ year,raceId,driverId,stop,lap,time,round,duration
 2022,Emilia Romagna Grand Prix,hamilton,1,18,15:34:07,4,32.740
 2022,Emilia Romagna Grand Prix,ocon,1,18,15:34:08,4,31.409
 2022,Emilia Romagna Grand Prix,latifi,1,18,15:34:17,4,31.125
-2022,Emilia Romagna Grand Prix,mick_schumacher,1,18,15:34:18,4,31.320
 2022,Emilia Romagna Grand Prix,zhou,1,18,15:34:18,4,32.203
+2022,Emilia Romagna Grand Prix,mick_schumacher,1,18,15:34:18,4,31.320
 2022,Emilia Romagna Grand Prix,max_verstappen,1,19,15:34:49,4,30.001
 2022,Emilia Romagna Grand Prix,leclerc,1,19,15:34:56,4,31.794
 2022,Emilia Romagna Grand Prix,norris,1,19,15:35:07,4,30.070
