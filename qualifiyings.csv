@@ -5492,3 +5492,63 @@ year,driverId,ConstructorId,number,position,qualifyId,raceId,q1,q2,q3
 2022,bottas,alfa,77,18,22,Abu Dhabi Grand Prix,1:25.892,,
 2022,albon,williams,23,19,22,Abu Dhabi Grand Prix,1:26.028,,
 2022,latifi,williams,6,20,22,Abu Dhabi Grand Prix,1:26.054,,
+2023,max_verstappen,red_bull,1,1,1,Bahrain Grand Prix,1:31.295,1:30.503,1:29.708
+2023,perez,red_bull,11,2,1,Bahrain Grand Prix,1:31.479,1:30.746,1:29.846
+2023,leclerc,ferrari,16,3,1,Bahrain Grand Prix,1:31.094,1:30.282,1:30.000
+2023,sainz,ferrari,55,4,1,Bahrain Grand Prix,1:30.993,1:30.515,1:30.154
+2023,alonso,aston_martin,14,5,1,Bahrain Grand Prix,1:31.158,1:30.645,1:30.336
+2023,russell,mercedes,63,6,1,Bahrain Grand Prix,1:31.057,1:30.507,1:30.340
+2023,hamilton,mercedes,44,7,1,Bahrain Grand Prix,1:31.543,1:30.513,1:30.384
+2023,stroll,aston_martin,18,8,1,Bahrain Grand Prix,1:31.184,1:31.127,1:30.836
+2023,ocon,alpine,31,9,1,Bahrain Grand Prix,1:31.508,1:30.914,1:30.984
+2023,hulkenberg,haas,27,10,1,Bahrain Grand Prix,1:31.204,1:30.809,
+2023,norris,mclaren,4,11,1,Bahrain Grand Prix,1:31.652,1:31.381,
+2023,bottas,alfa,77,12,1,Bahrain Grand Prix,1:31.504,1:31.443,
+2023,zhou,alfa,24,13,1,Bahrain Grand Prix,1:31.615,1:31.473,
+2023,tsunoda,alphatauri,22,14,1,Bahrain Grand Prix,1:31.400,1:32.510,
+2023,albon,williams,23,15,1,Bahrain Grand Prix,1:31.461,,
+2023,sargeant,williams,2,16,1,Bahrain Grand Prix,1:31.652,,
+2023,kevin_magnussen,haas,20,17,1,Bahrain Grand Prix,1:31.892,,
+2023,piastri,mclaren,81,18,1,Bahrain Grand Prix,1:32.101,,
+2023,de_vries,alphatauri,21,19,1,Bahrain Grand Prix,1:32.121,,
+2023,gasly,alpine,10,20,1,Bahrain Grand Prix,1:32.181,,
+2023,perez,red_bull,11,1,2,Saudi Arabian Grand Prix,1:29.244,1:28.635,1:28.265
+2023,leclerc,ferrari,16,2,2,Saudi Arabian Grand Prix,1:29.376,1:28.903,1:28.420
+2023,alonso,aston_martin,14,3,2,Saudi Arabian Grand Prix,1:29.298,1:28.757,1:28.730
+2023,russell,mercedes,63,4,2,Saudi Arabian Grand Prix,1:29.592,1:29.132,1:28.857
+2023,sainz,ferrari,55,5,2,Saudi Arabian Grand Prix,1:29.411,1:28.957,1:28.931
+2023,stroll,aston_martin,18,6,2,Saudi Arabian Grand Prix,1:29.335,1:28.962,1:28.945
+2023,ocon,alpine,31,7,2,Saudi Arabian Grand Prix,1:29.707,1:29.255,1:29.078
+2023,hamilton,mercedes,44,8,2,Saudi Arabian Grand Prix,1:29.689,1:29.374,1:29.223
+2023,piastri,mclaren,81,9,2,Saudi Arabian Grand Prix,1:29.706,1:29.378,1:29.243
+2023,gasly,alpine,10,10,2,Saudi Arabian Grand Prix,1:29.890,1:29.411,1:29.357
+2023,hulkenberg,haas,27,11,2,Saudi Arabian Grand Prix,1:29.547,1:29.451,
+2023,zhou,alfa,24,12,2,Saudi Arabian Grand Prix,1:29.654,1:29.461,
+2023,kevin_magnussen,haas,20,13,2,Saudi Arabian Grand Prix,1:29.744,1:29.634,
+2023,bottas,alfa,77,14,2,Saudi Arabian Grand Prix,1:29.929,1:29.668,
+2023,max_verstappen,red_bull,1,15,2,Saudi Arabian Grand Prix,1:28.761,1:49.953,
+2023,tsunoda,alphatauri,22,16,2,Saudi Arabian Grand Prix,1:29.939,,
+2023,albon,williams,23,17,2,Saudi Arabian Grand Prix,1:29.994,,
+2023,de_vries,alphatauri,21,18,2,Saudi Arabian Grand Prix,1:30.244,,
+2023,norris,mclaren,4,19,2,Saudi Arabian Grand Prix,1:30.447,,
+2023,sargeant,williams,2,20,2,Saudi Arabian Grand Prix,2:08.510,,
+2023,max_verstappen,red_bull,1,1,3,Australian Grand Prix,1:17.384,1:17.056,1:16.732
+2023,russell,mercedes,63,2,3,Australian Grand Prix,1:17.654,1:17.513,1:16.968
+2023,hamilton,mercedes,44,3,3,Australian Grand Prix,1:17.689,1:17.551,1:17.104
+2023,alonso,aston_martin,14,4,3,Australian Grand Prix,1:17.832,1:17.283,1:17.139
+2023,sainz,ferrari,55,5,3,Australian Grand Prix,1:17.928,1:17.349,1:17.270
+2023,stroll,aston_martin,18,6,3,Australian Grand Prix,1:17.873,1:17.616,1:17.308
+2023,leclerc,ferrari,16,7,3,Australian Grand Prix,1:18.218,1:17.390,1:17.369
+2023,albon,williams,23,8,3,Australian Grand Prix,1:17.962,1:17.761,1:17.609
+2023,gasly,alpine,10,9,3,Australian Grand Prix,1:18.312,1:17.574,1:17.675
+2023,hulkenberg,haas,27,10,3,Australian Grand Prix,1:18.029,1:17.412,1:17.735
+2023,ocon,alpine,31,11,3,Australian Grand Prix,1:17.770,1:17.768,
+2023,tsunoda,alphatauri,22,12,3,Australian Grand Prix,1:18.471,1:18.099,
+2023,norris,mclaren,4,13,3,Australian Grand Prix,1:18.243,1:18.119,
+2023,kevin_magnussen,haas,20,14,3,Australian Grand Prix,1:18.159,1:18.129,
+2023,de_vries,alphatauri,21,15,3,Australian Grand Prix,1:18.450,1:18.335,
+2023,piastri,mclaren,81,16,3,Australian Grand Prix,1:18.517,,
+2023,zhou,alfa,24,17,3,Australian Grand Prix,1:18.540,,
+2023,sargeant,williams,2,18,3,Australian Grand Prix,1:18.557,,
+2023,bottas,alfa,77,19,3,Australian Grand Prix,1:18.714,,
+2023,perez,red_bull,11,20,3,Australian Grand Prix,,,

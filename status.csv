@@ -360,3 +360,12 @@ year,statusId,status
 2022,131,Power Unit
 2022,140,Undertray
 2022,141,Cooling system
+2023,1,Finished
+2023,3,Accident
+2023,4,Collision
+2023,5,Engine
+2023,10,Electrical
+2023,11,+1 Lap
+2023,12,+2 Laps
+2023,23,Brakes
+2023,26,Mechanical
