@@ -3984,3 +3984,47 @@ year,round,raceId,constructorId,statusId,points
 2022,22,Abu Dhabi Grand Prix,red_bull,Finished,40.0
 2022,22,Abu Dhabi Grand Prix,williams,+1 Lap,0.0
 2022,22,Abu Dhabi Grand Prix,williams,Collision damage,0.0
+2023,1,Bahrain Grand Prix,alfa,+1 Lap,0.0
+2023,1,Bahrain Grand Prix,alfa,Finished,4.0
+2023,1,Bahrain Grand Prix,alphatauri,+1 Lap,0.0
+2023,1,Bahrain Grand Prix,alphatauri,Finished,0.0
+2023,1,Bahrain Grand Prix,alpine,Finished,2.0
+2023,1,Bahrain Grand Prix,alpine,Mechanical,0.0
+2023,1,Bahrain Grand Prix,aston_martin,Finished,23.0
+2023,1,Bahrain Grand Prix,ferrari,Engine,0.0
+2023,1,Bahrain Grand Prix,ferrari,Finished,12.0
+2023,1,Bahrain Grand Prix,haas,+1 Lap,0.0
+2023,1,Bahrain Grand Prix,mclaren,+2 Laps,0.0
+2023,1,Bahrain Grand Prix,mclaren,Electrical,0.0
+2023,1,Bahrain Grand Prix,mercedes,Finished,16.0
+2023,1,Bahrain Grand Prix,red_bull,Finished,43.0
+2023,1,Bahrain Grand Prix,williams,+1 Lap,0.0
+2023,1,Bahrain Grand Prix,williams,Finished,1.0
+2023,2,Saudi Arabian Grand Prix,alfa,+1 Lap,0.0
+2023,2,Saudi Arabian Grand Prix,alfa,Finished,0.0
+2023,2,Saudi Arabian Grand Prix,alphatauri,Finished,0.0
+2023,2,Saudi Arabian Grand Prix,alpine,Finished,6.0
+2023,2,Saudi Arabian Grand Prix,aston_martin,Engine,0.0
+2023,2,Saudi Arabian Grand Prix,aston_martin,Finished,15.0
+2023,2,Saudi Arabian Grand Prix,ferrari,Finished,14.0
+2023,2,Saudi Arabian Grand Prix,haas,Finished,1.0
+2023,2,Saudi Arabian Grand Prix,mclaren,Finished,0.0
+2023,2,Saudi Arabian Grand Prix,mercedes,Finished,22.0
+2023,2,Saudi Arabian Grand Prix,red_bull,Finished,44.0
+2023,2,Saudi Arabian Grand Prix,williams,Brakes,0.0
+2023,2,Saudi Arabian Grand Prix,williams,Finished,0.0
+2023,3,Australian Grand Prix,alfa,Finished,2.0
+2023,3,Australian Grand Prix,alphatauri,Collision,0.0
+2023,3,Australian Grand Prix,alphatauri,Finished,1.0
+2023,3,Australian Grand Prix,alpine,Collision,0.0
+2023,3,Australian Grand Prix,aston_martin,Finished,27.0
+2023,3,Australian Grand Prix,ferrari,Collision,0.0
+2023,3,Australian Grand Prix,ferrari,Finished,0.0
+2023,3,Australian Grand Prix,haas,Accident,0.0
+2023,3,Australian Grand Prix,haas,Finished,6.0
+2023,3,Australian Grand Prix,mclaren,Finished,12.0
+2023,3,Australian Grand Prix,mercedes,Engine,0.0
+2023,3,Australian Grand Prix,mercedes,Finished,18.0
+2023,3,Australian Grand Prix,red_bull,Finished,36.0
+2023,3,Australian Grand Prix,williams,Accident,0.0
+2023,3,Australian Grand Prix,williams,Collision,0.0
